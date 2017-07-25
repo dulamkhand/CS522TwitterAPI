@@ -34,64 +34,27 @@ public class Main {
         List<Status> status = twitter.getHomeTimeline();
 
         for(Status st : status) {
-            // Nominal, Duplicate 
-            System.out.println(st.getUser().getName() + ": " + st.getText()); 
-            
-            // Nominal, 
+            // Field Guide - https://dev.twitter.com/overview/api/tweets
+            System.out.println("User: " + st.getUser().getName());
+            System.out.println("Text: " + st.getText());
             System.out.println("Lang: " + st.getLang());
-            
-            // Nominal, Duplicate values
             System.out.println("Source: " + st.getSource());
-            
-            // Continuous?
             System.out.println("Scope: " + Arrays.asList(st.getScopes())); 
-            
-            // 
             System.out.println("Contributors: " + Arrays.asList(st.getContributors())); 
-            
-            // Interval, 
             System.out.println("CreatedAt: " + st.getCreatedAt()); 
-            
-            // Discrete, 
             System.out.println("CurrentUserRetweetId: " + st.getCurrentUserRetweetId()); 
-
-            // Discrete, 
             System.out.println("FavoriteCount: " + st.getFavoriteCount()); 
-
-            // Ratio - assuming lattitude & longtitude
             System.out.println("GeoLocation: " + st.getGeoLocation()); 
-            
-            // Discrete, 
             System.out.println("Id: " + st.getId()); 
-            
-            // Nominal, 
             System.out.println("InReplyToScreenName: " + st.getInReplyToScreenName()); 
-            
-            // Discrete or Ordinal
             System.out.println("InReplyToStatusId: " + st.getInReplyToStatusId()); 
-            
-            // Discrete, 
             System.out.println("InReplyToUserId: " + st.getInReplyToUserId()); 
-            
-            // Nominal, 
             System.out.println("Place: " + st.getPlace()); 
-
-            // Nominal, 
             System.out.println("QuotedStatus: " + st.getQuotedStatus()); 
-            
-            // Discrete, 
             System.out.println("QuotedStatusId: " + st.getQuotedStatusId()); 
-            
-            // Discrete, 
             System.out.println("RetweetCount: " + st.getRetweetCount()); 
-            
-            // Nominal, 
             System.out.println("RetweetedStatus: " + st.getRetweetedStatus()); 
-
-            // ?
             System.out.println("Scopes[]: " + Arrays.asList(st.getScopes())); 
-            
-            // Nominal, 
             System.out.println("WithheldInCountries[]: " + st.getWithheldInCountries()); 
             System.out.println("---------------------------------------------");
         }
