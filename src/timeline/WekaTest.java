@@ -8,6 +8,7 @@ package timeline;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.NominalPrediction;
 import weka.classifiers.rules.DecisionTable;
@@ -16,7 +17,6 @@ import weka.classifiers.trees.DecisionStump;
 import weka.classifiers.trees.J48;
 import weka.core.FastVector;
 import weka.core.Instances;
-import weka.gui.beans.Classifier;
 
 /**
  *
@@ -71,7 +71,7 @@ public class WekaTest {
     }
 
     public static void main(String[] args) throws Exception {
-        BufferedReader datafile = readDataFile("weather.txt");
+        BufferedReader datafile = readDataFile("./data/autos.arff");
 
         Instances data = new Instances(datafile);
         data.setClassIndex(data.numAttributes() - 1);
