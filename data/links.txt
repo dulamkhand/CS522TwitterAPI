@@ -1,4 +1,6 @@
+http://www.programcreek.com/2013/01/a-simple-machine-learning-example-in-java/
+
 http://www.cs.umb.edu/~ding/history/480_697_spring_2013/homework/WekaJavaAPITutorial.pdf
 
-http://www.programcreek.com/2013/01/a-simple-machine-learning-example-in-java/
+http://www.cs.ru.nl/P.Lucas/teaching/DM/weka.pdf
 

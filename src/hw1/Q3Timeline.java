@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package timeline;
+package hw1;
 
 import java.util.Arrays;
 import java.util.List;
@@ -16,7 +16,7 @@ import twitter4j.conf.ConfigurationBuilder;
  *
  * @author 985892
  */
-public class Main {
+public class Q3Timeline {
 
     /**
      * @param args the command line arguments

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package timeline;
+package hw1;
 
 import java.util.Arrays;
 import java.util.List;
@@ -16,7 +16,7 @@ import twitter4j.conf.ConfigurationBuilder;
  *
  * @author Khandaa
  */
-public class MainTest {
+public class Q3Timeline2csv {
     public static void main(String[] args) throws TwitterException {
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true)
@@ -29,10 +29,11 @@ public class MainTest {
         twitter4j.Twitter twitter  = tf.getInstance();
         List<Status> status = twitter.getHomeTimeline();
 
-         System.out.println("User,Text,Lang,Source,CreatedAt,CurrentUserRetweetId,"
+        // output as comma separated 
+        System.out.println("User,Text,Lang,Source,CreatedAt,CurrentUserRetweetId,"
                  + "FavoriteCount,GeoLocation,Id,InReplyToScreenName,InReplyToStatusId,InReplyToUserId,"
                  + "Place,QuotedStatus,QuotedStatusId,RetweetCount");
-         
+
         for(Status st : status) {
             // Field Guide - https://dev.twitter.com/overview/api/tweets
             System.out.print(st.getUser().getName());

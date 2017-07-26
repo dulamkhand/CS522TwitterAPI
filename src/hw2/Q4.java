@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package timeline;
+package hw2;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -15,6 +15,7 @@ import weka.classifiers.rules.DecisionTable;
 import weka.classifiers.rules.PART;
 import weka.classifiers.trees.DecisionStump;
 import weka.classifiers.trees.J48;
+import weka.core.Attribute;
 import weka.core.FastVector;
 import weka.core.Instances;
 
@@ -22,7 +23,7 @@ import weka.core.Instances;
  *
  * @author Khandaa
  */
-public class WekaTest {
+public class Q4 {
 
     public static BufferedReader readDataFile(String filename) {
         BufferedReader inputReader = null;
@@ -76,6 +77,23 @@ public class WekaTest {
         Instances data = new Instances(datafile);
         data.setClassIndex(data.numAttributes() - 1);
 
+        // begin of 3b
+        System.out.println("# of Attributes: " + data.numAttributes());
+        Attribute a;
+        for(int i=0; i < data.numAttributes() - 1; i++) {
+            a = data.attribute(i);
+            System.out.println(a.name() + " - " + 
+                    (a.isNominal() ? "Nominal" : (a.isNumeric() ? "Numeric" : "")));
+        }
+        System.out.println("---------------------------------");
+        System.out.println("---------------------------------");
+        
+        // eo 3b
+        
+        
+        
+        // begin of 3d
+        
         // Do 10-split cross validation
         Instances[][] split = crossValidationSplit(data, 10);
 
