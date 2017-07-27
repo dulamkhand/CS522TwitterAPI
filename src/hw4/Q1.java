@@ -5,8 +5,8 @@
  */
 package hw4;
 
+
 import edu.stanford.nlp.ling.HasWord;
-import edu.stanford.nlp.ling.TaggedWord;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import java.io.BufferedReader;
 import java.io.FileReader;
