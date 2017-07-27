@@ -38,9 +38,8 @@ public class Q3Timeline {
             System.out.println("User: " + st.getUser().getName());
             System.out.println("Text: " + st.getText());
             System.out.println("Lang: " + st.getLang());
-            System.out.println("Source: " + st.getSource());
-            System.out.println("Scope: " + Arrays.asList(st.getScopes())); 
-            System.out.println("Contributors: " + Arrays.asList(st.getContributors())); 
+            //System.out.println("Source: " + st.getSource());
+            //System.out.println("Contributors: " + Arrays.asList(st.getContributors())); 
             System.out.println("CreatedAt: " + st.getCreatedAt()); 
             System.out.println("CurrentUserRetweetId: " + st.getCurrentUserRetweetId()); 
             System.out.println("FavoriteCount: " + st.getFavoriteCount()); 
@@ -54,8 +53,6 @@ public class Q3Timeline {
             System.out.println("QuotedStatusId: " + st.getQuotedStatusId()); 
             System.out.println("RetweetCount: " + st.getRetweetCount()); 
             System.out.println("RetweetedStatus: " + st.getRetweetedStatus()); 
-            System.out.println("Scopes[]: " + Arrays.asList(st.getScopes())); 
-            System.out.println("WithheldInCountries[]: " + st.getWithheldInCountries()); 
             System.out.println("---------------------------------------------");
         }
         
