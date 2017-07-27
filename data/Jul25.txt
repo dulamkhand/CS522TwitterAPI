@@ -1,0 +1,431 @@
+Yannick: RT @DepressedDarth: Retweet if you can't wait https://t.co/UOiRln1B0e
+Nominal - Lang: en
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Scope: [null]
+Contributors: [[J@55d56113]
+Interval 	- CreatedAt: Tue Jul 25 16:27:04 CDT 2017
+Discrete 	- CurrentUserRetweetId: -1
+Discrete 	- FavoriteCount: 0
+Ratio 		- GeoLocation: null
+Discrete 	- Id: 889960213440331778
+			getInReplyToScreenName: null
+Discrete - getInReplyToStatusId: -1
+Discrete - getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+Discrete - QuotedStatusId: -1
+Discrete - RetweetCount: 149
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Jul 25 16:26:02 CDT 2017, id=889959956111339521, text='Retweet if you can't wait https://t.co/UOiRln1B0e', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=123, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=149, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=889959945831038976, url=https://t.co/UOiRln1B0e, mediaURL=http://pbs.twimg.com/media/DFnF2wOVwAALcYI.jpg, mediaURLHttps=https://pbs.twimg.com/media/DFnF2wOVwAALcYI.jpg, expandedURL=https://twitter.com/DepressedDarth/status/889959956111339521/photo/1, displayURL='pic.twitter.com/UOiRln1B0e', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=440, height=680, resize=100}, 2=Size{width=750, height=1158, resize=100}, 3=Size{width=750, height=1158, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=125122481, name='Darth Vader', screenName='DepressedDarth', location='A galaxy far, far away ', description='I am your father. Not associated with Disney. Contact: DepressedDarth@gmail.com', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/777913907658620929/IL4qQdOj_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/777913907658620929/IL4qQdOj_normal.jpg', isDefaultProfileImage=false, url='https://t.co/n276Locp0I', isProtected=false, followersCount=807087, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=263, createdAt=Sun Mar 21 14:30:01 CDT 2010, favouritesCount=1419, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/159392981/photo__2_.JPG', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/159392981/photo__2_.JPG', profileBackgroundTiled=true, lang='en', statusesCount=64484, isGeoEnabled=false, isVerified=false, translator=false, listedCount=6699, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Yannick: Twitter used to be the shit!
+I kinda miss those times
+Now i only kinda use it as my news source...
+Lang: en
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Scope: [null]
+Contributors: [[J@dc24521]
+CreatedAt: Tue Jul 25 16:26:31 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 1
+GeoLocation: null
+Id: 889960077716852736
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 0
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Trump says he is "disappointed" with Attorney General Jeff Sessions, but declines to say he would fire him.… https://t.co/ip71WmASW0
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@10bdf5e5]
+CreatedAt: Tue Jul 25 15:00:01 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 120
+GeoLocation: null
+Id: 889938308326969344
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 64
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: How each senator voted on motion to begin debate on repealing Obamacare https://t.co/fgyygjZkIf https://t.co/jf6HM62jD8
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@6e1ec318]
+CreatedAt: Tue Jul 25 14:38:34 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 132
+GeoLocation: null
+Id: 889932908974231552
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 170
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Trump to take questions from reporters during a joint news conference with the Lebanese prime minister. Watch CNN… https://t.co/GZu0EVWcmk
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@7e0b0338]
+CreatedAt: Tue Jul 25 14:26:20 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 80
+GeoLocation: null
+Id: 889929832515108865
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 33
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Uuree MMP™: Number crunching for the past day - 2 new unfollowers. Stats via https://t.co/4izfxHYY2k
+Lang: en
+Source: <a href="http://www.crowdfireapp.com" rel="nofollow">Crowdfire - Go Big</a>
+Scope: [null]
+Contributors: [[J@617faa95]
+CreatedAt: Tue Jul 25 14:25:25 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889929602201681921
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 0
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Sen. John McCain speaks after Senate votes to advance effort to dismantle Obamacare. Watch CNN… https://t.co/8rbIMYDcvZ
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@1e127982]
+CreatedAt: Tue Jul 25 14:16:26 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 228
+GeoLocation: null
+Id: 889927340213628928
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 78
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Senate votes to advance effort to dismantle Obamacare. VP Pence casts deciding vote. Watch CNN… https://t.co/YOiqJBEgr0
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@60c6f5b]
+CreatedAt: Tue Jul 25 14:14:02 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 154
+GeoLocation: null
+Id: 889926735558578177
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 147
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Sen. John McCain gets standing ovation as he enters Senate less than a week after revealing he has brain cancer.… https://t.co/cHg7QymXxb
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@2038ae61]
+CreatedAt: Tue Jul 25 14:06:49 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 587
+GeoLocation: null
+Id: 889924920855212032
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 138
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: 2 Republican Senators vote no on whether to debate health care bill. VP Pence may need to break tie. Watch CNN… https://t.co/EL3WeSCILl
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@3c0f93f1]
+CreatedAt: Tue Jul 25 13:56:37 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 211
+GeoLocation: null
+Id: 889922352900968451
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 167
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: RT @WIRED: Prisoners are often paid as little as 23 cents an hour. San Quentin’s inmates can make $16.79 working as coders https://t.co/Ui0…
+Lang: en
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Scope: [null]
+Contributors: [[J@31dc339b]
+CreatedAt: Tue Jul 25 12:59:37 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889908009157107712
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 102
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Jul 25 12:56:57 CDT 2017, id=889907336961290242, text='Prisoners are often paid as little as 23 cents an hour. San Quentin’s inmates can make $16.79 working as coders https://t.co/Ui0zegPGWt', source='<a href="http://www.socialflow.com" rel="nofollow">SocialFlow</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=188, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=102, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/Ui0zegPGWt', expandedURL='http://bit.ly/2tzUlEB', displayURL='bit.ly/2tzUlEB'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=1344951, name='WIRED', screenName='WIRED', location='San Francisco/New York', description='WIRED is where tomorrow is realized.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png', isDefaultProfileImage=false, url='http://t.co/AbRkBRjcYo', isProtected=false, followersCount=9374831, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='99DCF0', profileSidebarFillColor='EEEEEE', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=300, createdAt=Sat Mar 17 04:57:25 CDT 2007, favouritesCount=1717, utcOffset=-25200, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg', profileBackgroundTiled=false, lang='en', statusesCount=80313, isGeoEnabled=false, isVerified=true, translator=false, listedCount=89781, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: https://t.co/SbkHgZGjR6
+Lang: und
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Scope: [null]
+Contributors: [[J@544fe44c]
+CreatedAt: Tue Jul 25 12:58:59 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889907850671144960
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 0
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Barbara Sinatra, a former Las Vegas showgirl and the last of  Frank Sinatra's four wives, has died at age 90… https://t.co/yDc0Cjyftq
+Lang: en
+Source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+Scope: [null]
+Contributors: [[J@31610302]
+CreatedAt: Tue Jul 25 12:56:48 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 754
+GeoLocation: null
+Id: 889907299543810048
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 550
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: "The Simpsons" creator Matt Groening is teaming with Netflix on a new animated comedy fantasy series for adults… https://t.co/U0LbDBPpDN
+Lang: en
+Source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+Scope: [null]
+Contributors: [[J@71318ec4]
+CreatedAt: Tue Jul 25 12:31:55 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 977
+GeoLocation: null
+Id: 889901035447308288
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 354
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bukhuu: RT @Urantogtokh: Гарцан дээр автомашин зам тавьж өгөхөд Япон хүүхдийн хариу талархал...
+
+Жич: Япон сурагчдаас суралцах ёстой соёл
+
+#Хүмүүжи…
+Lang: ru
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Scope: [null]
+Contributors: [[J@21213b92]
+CreatedAt: Tue Jul 25 12:14:57 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889896766060941312
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 137
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Jul 25 03:07:53 CDT 2017, id=889759092775862272, text='Гарцан дээр автомашин зам тавьж өгөхөд Япон хүүхдийн хариу талархал...
+
+Жич: Япон сурагчдаас суралцах ёстой соёл… https://t.co/t35nTok7KV', source='<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', isTruncated=true, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=158, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=137, isPossiblySensitive=false, lang='ru', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/t35nTok7KV', expandedURL='https://twitter.com/i/web/status/889759092775862272', displayURL='twitter.com/i/web/status/8…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=543169879, name='Urantogtokh', screenName='Urantogtokh', location='PR арга зүйч, МУИС-н докторант', description='Улстөрийн шинэ содон мэдээ,
+Улстөрчдийн увайгүй үйлдлүүд,
+Төрийн ордон дахь "бор шувуу"-нууд', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/859967506349346816/LkRjins2_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/859967506349346816/LkRjins2_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=6662, status=null, profileBackgroundColor='352726', profileTextColor='3E4415', profileLinkColor='D02B55', profileSidebarFillColor='99CC33', profileSidebarBorderColor='829D5E', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1993, createdAt=Mon Apr 02 01:43:37 CDT 2012, favouritesCount=0, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme5/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme5/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=3216, isGeoEnabled=false, isVerified=false, translator=false, listedCount=12, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: #TeamMark on this 🙃 https://t.co/Y6PhuRi92u
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@a67c67e]
+CreatedAt: Tue Jul 25 11:53:34 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 1
+GeoLocation: null
+Id: 889891387352784897
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: StatusJSONImpl{createdAt=Tue Jul 25 11:46:54 CDT 2017, id=889889710444883969, text='Pick a side! #Ai', source='<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=14, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=16, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[], hashtagEntities=[HashtagEntityJSONImpl{text='Ai'}], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=77909615, name='Tryolabs', screenName='tryolabs', location='San Francisco | Uruguay', description='Helping companies building amazing products and features powered by Machine Learning 🚀 // Sharing relevant Machine Learning findings and our random events 🤖💻', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/621496995417448448/zKSvxqAb_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/621496995417448448/zKSvxqAb_normal.png', isDefaultProfileImage=false, url='https://t.co/YQcx3rQz6g', isProtected=false, followersCount=12028, status=null, profileBackgroundColor='C0DEED', profileTextColor='000000', profileLinkColor='0084B4', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=101, createdAt=Sun Sep 27 22:09:31 CDT 2009, favouritesCount=30527, utcOffset=-10800, timeZone='Buenos Aires', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/652209316246765568/UMKWbtfE.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/652209316246765568/UMKWbtfE.png', profileBackgroundTiled=true, lang='en', statusesCount=1917, isGeoEnabled=true, isVerified=false, translator=false, listedCount=476, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+QuotedStatusId: 889889710444883969
+RetweetCount: 1
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: RT @KirkDBorne: Most cited #DeepLearning papers: https://t.co/NaiLHEpOF0 #abdsc #MachineLearning #BigData #DataScience #AI https://t.co/miu…
+Lang: en
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Scope: [null]
+Contributors: [[J@3327bd23]
+CreatedAt: Tue Jul 25 11:32:29 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889886078592667648
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 29
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Jul 25 08:07:35 CDT 2017, id=889834514834493440, text='Most cited #DeepLearning papers: https://t.co/NaiLHEpOF0 #abdsc #MachineLearning #BigData #DataScience #AI https://t.co/miuMJtHZYn', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=32, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=29, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/NaiLHEpOF0', expandedURL='http://bit.ly/2n90mEz', displayURL='bit.ly/2n90mEz'}], hashtagEntities=[HashtagEntityJSONImpl{text='DeepLearning'}, HashtagEntityJSONImpl{text='abdsc'}, HashtagEntityJSONImpl{text='MachineLearning'}, HashtagEntityJSONImpl{text='BigData'}, HashtagEntityJSONImpl{text='DataScience'}, HashtagEntityJSONImpl{text='AI'}], mediaEntities=[MediaEntityJSONImpl{id=889834502557765632, url=https://t.co/miuMJtHZYn, mediaURL=http://pbs.twimg.com/media/DFlTw_nXkAAeESu.jpg, mediaURLHttps=https://pbs.twimg.com/media/DFlTw_nXkAAeESu.jpg, expandedURL=https://twitter.com/KirkDBorne/status/889834514834493440/photo/1, displayURL='pic.twitter.com/miuMJtHZYn', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=680, height=485, resize=100}, 2=Size{width=750, height=535, resize=100}, 3=Size{width=750, height=535, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=534563976, name='Kirk Borne', screenName='KirkDBorne', location='Booz Allen Hamilton', description='The Principal Data Scientist at @BoozAllen, PhD Astrophysicist, ♡ Data Science, Top Big Data Influencer. Ex-Professor https://t.co/f4gsbNtASa 📊📈🔭', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/869301637269139458/3wIcLiQC_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/869301637269139458/3wIcLiQC_normal.jpg', isDefaultProfileImage=false, url='https://t.co/tWlmeuTlR7', isProtected=false, followersCount=161859, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=68906, createdAt=Fri Mar 23 11:35:17 CDT 2012, favouritesCount=116455, utcOffset=-14400, timeZone='Eastern Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000110442114/094a0b4d38b70e3871a1bda7d7fe2341.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000110442114/094a0b4d38b70e3871a1bda7d7fe2341.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=74365, isGeoEnabled=false, isVerified=false, translator=false, listedCount=6540, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: RT @BrendanShilling: lol. like what... terminator? https://t.co/eCIjDy9XaY
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@4e1d422d]
+CreatedAt: Tue Jul 25 11:26:24 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+Id: 889884548997070848
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: 889751762944512002
+RetweetCount: 9
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Jul 25 11:16:26 CDT 2017, id=889882042170847232, text='lol. like what... terminator? https://t.co/eCIjDy9XaY', source='<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=31, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=9, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/eCIjDy9XaY', expandedURL='https://twitter.com/elonmusk/status/889751762944512002', displayURL='twitter.com/elonmusk/statu…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=744564421, name='Brendan Shillingford', screenName='BrendanShilling', location='Oxford, UK', description='Machine learning PhD student at Oxford. Originally from Vancouver.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/378800000580331335/c73b8d169d00dd61c688673755309535_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/378800000580331335/c73b8d169d00dd61c688673755309535_normal.jpeg', isDefaultProfileImage=false, url='http://t.co/9W4dsbNRYm', isProtected=false, followersCount=942, status=null, profileBackgroundColor='1A1B1F', profileTextColor='666666', profileLinkColor='2FC2EF', profileSidebarFillColor='252429', profileSidebarBorderColor='181A1E', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=367, createdAt=Wed Aug 08 01:07:48 CDT 2012, favouritesCount=933, utcOffset=-25200, timeZone='Arizona', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme9/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme9/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=930, isGeoEnabled=true, isVerified=false, translator=false, listedCount=50, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=889751762944512002, quotedStatus=StatusJSONImpl{createdAt=Tue Jul 25 02:38:45 CDT 2017, id=889751762944512002, text='@lars_0 @dcunni @SVbizjournal Movie on the subject coming soon...', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=889751258185179136, inReplyToUserId=146493679, isFavorited=false, isRetweeted=false, favoriteCount=2443, inReplyToScreenName='lars_0', geoLocation=null, place=null, retweetCount=240, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Lars Osborne', screenName='lars_0', id=146493679}, UserMentionEntityJSONImpl{name='Darren Cunningham', screenName='dcunni', id=14837691}, UserMentionEntityJSONImpl{name='SVbizjournal', screenName='SVbizjournal', id=17625154}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=44196397, name='Elon Musk', screenName='elonmusk', location='Boring', description='Tesla, SpaceX, OpenAI & Neuralink', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=10587597, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=44, createdAt=Tue Jun 02 15:12:29 CDT 2009, favouritesCount=575, utcOffset=-25200, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/399721902/fusion.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/399721902/fusion.jpg', profileBackgroundTiled=false, lang='en', statusesCount=3299, isGeoEnabled=false, isVerified=true, translator=false, listedCount=36702, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}}
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+Bibby Bilguun: really? 😜 https://t.co/XLCV5oDpnj
+Lang: en
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Scope: [null]
+Contributors: [[J@66480dd7]
+CreatedAt: Tue Jul 25 11:24:06 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 1
+GeoLocation: null
+Id: 889883969277222912
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: StatusJSONImpl{createdAt=Tue Jul 25 02:07:03 CDT 2017, id=889743782387761152, text='@dcunni @SVbizjournal I've talked to Mark about this. His understanding of the subject is limited.', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=889743281516564480, inReplyToUserId=14837691, isFavorited=false, isRetweeted=false, favoriteCount=27668, inReplyToScreenName='dcunni', geoLocation=null, place=null, retweetCount=7043, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Darren Cunningham', screenName='dcunni', id=14837691}, UserMentionEntityJSONImpl{name='SVbizjournal', screenName='SVbizjournal', id=17625154}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=44196397, name='Elon Musk', screenName='elonmusk', location='Boring', description='Tesla, SpaceX, OpenAI & Neuralink', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=10587597, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=44, createdAt=Tue Jun 02 15:12:29 CDT 2009, favouritesCount=575, utcOffset=-25200, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/399721902/fusion.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/399721902/fusion.jpg', profileBackgroundTiled=false, lang='en', statusesCount=3299, isGeoEnabled=false, isVerified=true, translator=false, listedCount=36702, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null, quotedStatusId=-1, quotedStatus=null}
+QuotedStatusId: 889743782387761152
+RetweetCount: 0
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+CNN Breaking News: Brain disease CTE found in 99% of deceased NFL players' brains that were donated to science, says major new study… https://t.co/te8U4KLxBZ
+Lang: en
+Source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+Scope: [null]
+Contributors: [[J@52a86356]
+CreatedAt: Tue Jul 25 10:15:35 CDT 2017
+CurrentUserRetweetId: -1
+FavoriteCount: 1258
+GeoLocation: null
+Id: 889866728754360321
+getInReplyToScreenName: null
+getInReplyToStatusId: -1
+getInReplyToUserId: -1
+Place: null
+QuotedStatus: null
+QuotedStatusId: -1
+RetweetCount: 1480
+RetweetedStatus: null
+Scopes[]: [null]
+WithheldInCountries[]: null
+-----------------------------
+BUILD SUCCESSFUL (total time: 1 second)
