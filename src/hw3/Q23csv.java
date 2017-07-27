@@ -10,7 +10,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 import java.util.List;
 import twitter4j.Status;
 import twitter4j.TwitterException;
@@ -23,7 +22,21 @@ import twitter4j.conf.ConfigurationBuilder;
  */
 public class Q23csv {
 
-    public static void main(String[] args) throws TwitterException {
+    public static void main(String[] args) throws TwitterException, Exception{
+        
+        // load - export to file
+        String filename = DateTimeFormatter.ofPattern("MMMdd").format(LocalDate.now());
+
+        // create file for twitter data
+        String twitterData = Q23csv.extractData();
+        Q23csv.createFile("./data/" + filename+".csv", twitterData);
+
+        // create a new pos file for each/daily twitter file
+        String posData = hw4.Q1.pos("./data/" + filename+".csv");
+        Q23csv.createFile("./data/" + filename+"_pos.csv", posData);
+    }
+
+    public static String extractData() throws TwitterException {
         // extract - read data from twitter
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true)
@@ -84,29 +97,27 @@ public class Q23csv {
                 sb.append("\n");
             }
         }
-        
-        // load - export to file
-        LocalDate localDate = LocalDate.now();
-        String filename = "./data/" + DateTimeFormatter.ofPattern("MMMdd").format(localDate);
-        
+
+        return sb.toString();
+    }
+
+
+    public static void createFile(String filepath, String content) {
         BufferedWriter bw = null;
         FileWriter fw = null;
         try {
-            fw = new FileWriter(filename+".csv");
+            fw = new FileWriter(filepath);
             bw = new BufferedWriter(fw);
-            bw.write(sb.toString());
+            bw.write(content);
         } catch (IOException e) {
-            e.printStackTrace();
         } finally {
             try {
                 if (bw != null) bw.close();
                 if (fw != null) fw.close();
             } catch (IOException ex) {
-                ex.printStackTrace();
             }
-
         }
-
     }
+
 
 }
