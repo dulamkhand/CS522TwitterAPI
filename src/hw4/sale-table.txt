@@ -1,0 +1,4 @@
+orderId,date,custId,prodId,storeId,qty,amt
+o100,1/7/97,53,p1,c1,1,12
+o102,2/7/97,53,p2,c1,2,11
+105,3/8/97,111,p1,c3,5,50
