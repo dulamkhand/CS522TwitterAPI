@@ -1,0 +1,8 @@
+1.  Frequent pattern mining retrieves data from itemsets which frequency is no less than minimum support.
+    Pattern mining retrieves hidden data based on its pattern. 
+2.  APRIORI - Easy to understand and use. It's good for small dataset but for huge datasets it will consume too much memory.
+    ECLAT - Eclat and FP-Growth algorithms are used commonly in real life scenario. Eclat's algorithm is faster than Apriori 
+	but it's good for small and intermediate datasets. 
+    FP-Growth - This algorithm is slightly faster than Eclat's algorithm. Overall it's fastest frequent pattern mining algorithm. 
+	It constructs whole tree and then use divide and conquer method to mine frequent pattern.
+
