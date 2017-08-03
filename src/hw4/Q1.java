@@ -19,7 +19,7 @@ import java.util.List;
 public class Q1 {
 
     public static void main(String[] args) throws Exception {
-        System.out.println(Q1.pos("./data/Jul26.csv"));
+        System.out.println(Q1.pos("./data/Aug03.csv"));
     }
 
     public static String pos(String filename) throws Exception {

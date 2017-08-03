@@ -5,17 +5,16 @@
  */
 package hw6;
 
-import java.io.IOException;
-import java.util.*;
-
-import org.apache.hadoop.conf.*;
-import org.apache.hadoop.fs.*;
-import org.apache.hadoop.conf.*;
-import org.apache.hadoop.io.*;
-import org.apache.hadoop.mapreduce.*;
-import org.apache.hadoop.mapreduce.lib.input.*;
-import org.apache.hadoop.mapreduce.lib.output.*;
-import org.apache.hadoop.util.*;
+import org.apache.hadoop.conf.Configured;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
+import org.apache.hadoop.util.Tool;
+import org.apache.hadoop.util.ToolRunner;
 
 /**
  *
@@ -23,65 +22,44 @@ import org.apache.hadoop.util.*;
  */
 public class WordCount extends Configured implements Tool {
 
-    public static void main(String args[]) throws Exception {
-        int res = ToolRunner.run(new WordCount(), args);
-        System.exit(res);
+    public static void main(String[] args) throws Exception {
+        int exitCode = ToolRunner.run(new WordCount(), args);
+        System.exit(exitCode);
     }
 
     public int run(String[] args) throws Exception {
-        Path inputPath = new Path(args[0]);
-        Path outputPath = new Path(args[1]);
+        if (args.length != 2) {
+            System.err.printf("Usage: %s needs two arguments, input and output files\n", getClass().getSimpleName());
+			return -1;
+        }
 
-        Configuration conf = getConf();
-        Job job = new Job(conf, this.getClass().toString());
-
-        FileInputFormat.setInputPaths(job, inputPath);
-        FileOutputFormat.setOutputPath(job, outputPath);
-
-        job.setJobName("WordCount");
+        //Create a new Jar and set the driver class(this class) as the main class of jar
+        Job job = new Job();
         job.setJarByClass(WordCount.class);
-        job.setInputFormatClass(TextInputFormat.class);
-        job.setOutputFormatClass(TextOutputFormat.class);
-        job.setMapOutputKeyClass(Text.class);
-        job.setMapOutputValueClass(IntWritable.class);
+        job.setJobName("WordCounter");
+
+        //Set the input and the output path from the arguments
+        FileInputFormat.addInputPath(job, new Path(args[0]));
+        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
+        job.setOutputFormatClass(TextOutputFormat.class);
 
-        job.setMapperClass(Map.class);
-        job.setCombinerClass(Reduce.class);
-        job.setReducerClass(Reduce.class);
+        //Set the map and reduce classes in the job
+        job.setMapperClass(MapClass.class);
+        job.setReducerClass(ReduceClass.class);
 
-        return job.waitForCompletion(true) ? 0 : 1;
-    }
+        //Run the job and wait for its completion
+        int returnValue = job.waitForCompletion(true) ? 0 : 1;
 
-    public static class Map extends Mapper<LongWritable, Text, Text, IntWritable> {
-
-        private final static IntWritable one = new IntWritable(1);
-        private Text word = new Text();
-
-        @Override
-        public void map(LongWritable key, Text value,
-                Mapper.Context context) throws IOException, InterruptedException {
-            String line = value.toString();
-            StringTokenizer tokenizer = new StringTokenizer(line);
-            while (tokenizer.hasMoreTokens()) {
-                word.set(tokenizer.nextToken());
-                context.write(word, one);
-            }
+        if (job.isSuccessful()) {
+            System.out.println("Job was successful");
+        } else if (!job.isSuccessful()) {
+            System.out.println("Job was not successful");
         }
-    }
 
-    public static class Reduce extends Reducer<Text, IntWritable, Text, IntWritable> {
-
-        @Override
-        public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
-            int sum = 0;
-            for (IntWritable value : values) {
-                sum += value.get();
-            }
-
-            context.write(key, new IntWritable(sum));
-        }
+        return returnValue;
     }
 
 }
