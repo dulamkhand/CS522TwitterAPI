@@ -18,7 +18,7 @@ import org.apache.hadoop.mapreduce.Reducer;
  */
 public class ReduceClass extends Reducer{
     
-    @Override
+    //@Override
     protected void reduce(Text key, Iterable values,
                     Context context)
                     throws IOException, InterruptedException {

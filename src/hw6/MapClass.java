@@ -21,7 +21,7 @@ public class MapClass extends Mapper{
     private final static IntWritable one = new IntWritable(1);
     private Text word = new Text();
     
-    @Override
+    //@Override
     protected void map(LongWritable key, Text value,
 			Context context)
 			throws IOException, InterruptedException {
