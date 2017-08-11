@@ -1,7 +1,0 @@
-Q#1) what is HDFS and MapReduce, how you can relate them with Processing and Data?
-
-Hadoop Distributed File System is a storage that provides high-bandwidth and fault tolerant services for storing huge amount of data. MapReduce is a framework/infrastructure/programming model that processes big data sets parallelly on distributed clusters. They’re both core components of Hadoop platform. Hadoop platform uses to store data across many servers in a cluster.
-
-Q#2) Explain MapReduce functionality with help of an example (like word count example given in slides)? 
-
-Typical MapReduce applications has two functions, Mapper and Reducer that run on nodes in the cluster. Mapper function prepares data to be aggregated and sends to Reduce. Reduce function performs aggregation logics on data that’s produced by Mapper. For instance, in the WordCount application Mapper function reads blocks of text and outputs the result to Reducer which counts each word producing the WordCount.

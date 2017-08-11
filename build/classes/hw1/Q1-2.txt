@@ -1,7 +1,0 @@
-1) What is relationship between Big data and Cloud computing, write different types of cloud services?
-
-Big Data is the collection of huge data sets that cannot be processed with traditional methods. We use it when data becomes too complex and large to handle or we need to make it lot faster or there are too many types of data. Purpose of big data is to help companies improve operations and make faster, more intelligent decisions. In other hand, Cloud computing is Internet to provides simple way to access servers, databases and services. We can use big data to manage huge data sets. Then we can use cloud computing for compute and transfer these huge data. Because cloud computing is easy to use and it's cost effective. There are 3 types of cloud services. IaaS - Infrastructure as a service - It provides hardware related services. We can use it for database storage PaaS - Platform as a Service - It provides environment which is the operating system and server software system SaaS - Software as a service - It provides access to software running on servers
-
-2) What is difference between Cloud services and Web services? Name few of Cloud services available with their 3-4 main different features?
-
-Web services are tools which allow access to software through the Internet. Cloud services are used to store the data, security -AWS Google App Engine, Windows Azure, Mongo DB, Node.js
